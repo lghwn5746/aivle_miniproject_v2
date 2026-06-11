@@ -30,7 +30,7 @@
 | 최준석 | Backend 개발 | Controller 관리, CRUD 엔드포인트 점검, @Valid+@NotBlank, Postman 테스트 |
 | 조은진 | AI/Frontend 연동 | Frontend 코드 분석 및 연동, OpenAI 표지 흐름, E2E 시연 |
 | 양경동 | 통합 / 예외처리 | WebConfig(CORS), 전역 예외 처리, 풀스택 디버깅, 트러블슈팅 |
-
+| 이길환 | AI/Frontend 연동 | Frontend 코드 분석 및 연동 |
 ---
 
 ## 3. 주요 기능
